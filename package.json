@@ -1,0 +1,35 @@
+{
+  "name": "clinical-trials-api",
+  "version": "1.0.0",
+  "description": "Api for trials data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "trials",
+    "elastic-serach",
+    "mongodb"
+  ],
+  "author": "Abhishek Jain",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.6.1",
+    "bson": "^4.0.4",
+    "moment": "^2.25.3",
+    "mongodb": "^3.5.7",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
