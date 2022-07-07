@@ -18,7 +18,7 @@
   "dependencies": {
     "@elastic/elasticsearch": "^7.6.1",
     "bson": "^4.0.4",
-    "moment": "^2.25.3",
+    "moment": "^2.29.4",
     "mongodb": "^3.5.7",
     "request": "^2.88.2",
     "request-promise": "^4.2.5",
